@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki text align extension.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "align"
@@ -28,8 +28,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-align/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-align"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-align/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-align"
   },
   "require": {
     "composer/installers": "~1.0",
